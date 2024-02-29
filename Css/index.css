@@ -42,7 +42,7 @@ ul li a{
 .sec-1{
     padding-left: 90px;
     display: flex;
-    padding-left:12%; 
+    padding-left:8%; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .sec-1 h1 {
@@ -64,7 +64,7 @@ section .row-1{
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
- button{
+ .button{
     background-color: rgb(236, 109, 52);
     border: none;
     color: white;
@@ -72,15 +72,13 @@ section .row-1{
 } 
 .sec-2{
     padding-left: 90px;
-    padding-left:12%; 
+    padding-left:8%; 
     padding-bottom: 70px;
 }
 .carts {
     display: flex;
     justify-content: space-between;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
- 
-
 }
 .sec-2 h3{
     padding-top: 20px;
@@ -102,7 +100,7 @@ section .row-1{
 footer{
     background-color: rgb(254, 247, 244);
     height: 200px;
-    padding-left: 12%;
+    padding-left: 8%;
     padding-top: 60px;
 }
 .footer{
