@@ -69,7 +69,11 @@ section .row-1{
     border: none;
     color: white;
     height: 35px;
+    width: 120px;
 } 
+/* .button :hover {
+    background-color: aquamarine;
+} */
 .sec-2{
     padding-left: 90px;
     padding-left:8%; 
